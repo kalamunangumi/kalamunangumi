@@ -2,4 +2,3 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/kalamunangumi/count.svg" alt="Visitor's Count" />
 </div>
-
