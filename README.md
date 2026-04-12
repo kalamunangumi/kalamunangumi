@@ -1,4 +1,3 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/kalamunangumi/count.svg" alt="Visitor's Count" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalamunangumi&label=Profile%20views&color=0e75b6&style=flat" alt="kalamunangumi" />
+</p>
