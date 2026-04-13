@@ -11,15 +11,7 @@
 - 👯 Looking to collaborate on **Open Source Projects**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalamunangumi&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=kalamunangumi&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalamunangumi&layout=compact&theme=radical" />
 </p>
 
 ## 🛠️ Tech Stack
