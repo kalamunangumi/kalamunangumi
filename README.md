@@ -40,4 +40,4 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/kalamunangumi
-- X: @Kalamunangumi
+- X: https://x.com/kalamunangumi
