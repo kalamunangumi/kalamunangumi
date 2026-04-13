@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm William M. Njati</h1>
+<h1 align="center">Hi 👋, I'm Anonymous</h1>
 <h3 align="center">Writer & Developer </h3>
 
 <p align="center">
