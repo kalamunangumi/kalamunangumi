@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm William M. Njati</h1>
+<h1 align="center">Hi 👋, I'm William Njati Mugambi</h1>
 <h3 align="center">Writer & Developer </h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Learning **Backend Architecture & System Design**
+- 🌱 Learning **Backend Architecture & System Design**Njati
 - 👯 Looking to collaborate on **Open Source Projects**
 
 <p align="center">
